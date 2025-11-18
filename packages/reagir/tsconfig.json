@@ -4,7 +4,7 @@
     "outDir": "dist",
     "declaration": true,
     "jsx": "react-jsx",
-    "jsxImportSource": "mini-react",
+    "jsxImportSource": "reagir",
     "module": "ESNext",
     "target": "ES2020",
     "moduleResolution": "Node"
